@@ -20,7 +20,13 @@ All the members that are willing to join are kindly requested to do the followin
 	- Goto [Github](https://github.com/) and create an account 
 ![Screenshot 2025-04-25 at 5.39.39 PM.png](/img/user/Files/attachments/Screenshot%202025-04-25%20at%205.39.39%20PM.png)
 2. join the [AI Robot GCEK](https://github.com/AI-Robot-GCEK) github organization 
-3. Join the [Whatsapp Group](wa.me/9747350188) ignore this if're already joined
+3. Join the [Whatsapp Group](wa.me/9747350188) if not already 
+	1. Send the Name and Github Username to the Group ,like
+		```
+		Arun CS
+		aruncs31s 
+		```
+		
 
 
 ## Project Repos 
