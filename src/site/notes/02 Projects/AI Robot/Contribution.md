@@ -34,7 +34,7 @@ Standardisation  is in the sense that making each others work compatible  with e
 3. **project planning** by using things like [Kanban Board](https://www.atlassian.com/agile/kanban/boards#:~:text=A%20kanban%20board%20is%20an,order%20in%20their%20daily%20work.) 
 4. Development using [Vscode ](https://code.visualstudio.com/) and [Platform IO](https://platformio.org/)
 5. Codebase management using [Github](https://github.com/)
-6. [MacOS](https://en.wikipedia.org/wiki/MacOS) , [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) , [Linux](https://en.wikipedia.org/wiki/Linux) OS For development 
+6. [MacOS](https://en.wikipedia.org/wiki/MacOS) , [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) , [Linux](https://en.wikipedia.org/wiki/Linux) OS For development , you can use any one of this 
 
 >[!important]- Platform IO and Arduino IDE
 >Even though i will use Platform io , i will also be going to maintain an Arduino IDE Compatible version .
