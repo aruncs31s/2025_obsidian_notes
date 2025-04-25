@@ -13,12 +13,6 @@
 ```tasks
 path includes 02 Projects/AI Robot
 ```
-
-
-
-
 ## Members
 
 1. Arun CS
-## References
-1. https://robokits.co.in/robot-kits/humanoid-and-biped-robot-kit/17dof-humanoid-robot-diy-kit-without-electronics?cPath=&
