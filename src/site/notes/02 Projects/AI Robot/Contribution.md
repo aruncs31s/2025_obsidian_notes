@@ -4,6 +4,8 @@
 
 
 # [[#Contribution]]
+
+## [[#Steps]]
 All the members that are willing to join are kindly requested to do the following steps 
 >[!Abstract ]- Why these steps are necessary 
 >Github is widely used in software development  by professionals , students etc. It makes easy to contribute and share code. 
