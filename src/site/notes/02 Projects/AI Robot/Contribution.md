@@ -41,7 +41,6 @@ Standardisation  is in the sense that making each others work compatible  with e
 
 
 ## Online Resources
-There will be 3 parts to this projects  
 1. Robot kit -> [link](https://robokits.co.in/robot-kits/humanoid-and-biped-robot-kit/17dof-humanoid-robot-diy-kit-without-electronics?cPath=&)
 2. PWM Moto driver -> [Datasheet](https://cdn-shop.adafruit.com/datasheets/PCA9685.pdf)
 3. [Esp32 tutorial]() coming soon 
