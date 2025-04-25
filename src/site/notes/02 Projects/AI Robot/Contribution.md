@@ -3,7 +3,7 @@
 ---
 
 
-# Contribution 
+# [[#Contribution]]
 All the members that are willing to join are kindly requested to do the following steps 
 >[!Abstract ]- Why these steps are necessary 
 >Github is widely used in software development  by professionals , students etc. It makes easy to contribute and share code. 
@@ -20,6 +20,9 @@ All the members that are willing to join are kindly requested to do the followin
 2. join the [AI Robot GCEK](https://github.com/AI-Robot-GCEK) github organization 
 3. Join the [Whatsapp Group](wa.me/9747350188) ignore this if're already joined
 
+
+## Project Repos 
+1. Root repo -> [Github Repo](https://github.com/aruncs31s/AI-Robot-System)
 
 ## Standardisation 
 
