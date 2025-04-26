@@ -16,4 +16,9 @@ path includes 02 Projects/AI Robot
 ```
 ## Members
 
-1. Arun CS
+1. Arun CS [Github](https://github.com/aruncs31s)
+2. Amaya Pramod P V [Github](https://github.com/AmayaPramod)
+3. Saifali [Github](https://github.com/Saifali1256)
+4. Deepika Rajan [Github](https://github.com/DEEPIKARAJAN-E)
+5. Harikesh OP [Github](https://github.com/harikeshop1989)
+6. Abhaya Govind [Github]
