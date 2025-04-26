@@ -14,9 +14,9 @@ Our main goal is to make the humanoid robot **walk** .
 - [ ] Have to find the position of all servo motor  
 
 
-#### Finding the initial position[^1] of all servos 
+#### Finding the initial position of all servos 
 
-[^1]:Initial position in the sense that  the position of the servo when the robot is in the standing position 
+**Initial position** in the sense that  the position of the servo when the robot is in the standing position 
 
 ![Pasted image 20250426211133.png](/img/user/Files/attachments/Pasted%20image%2020250426211133.png)
 
